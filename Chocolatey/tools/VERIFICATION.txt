@@ -1,0 +1,7 @@
+﻿VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+ 
+I'm the creator of this software. The official builds are published as GitHub releases. 
+If you need to verify them, head to https://github.com/td512/Humble-Trove-Console-Downloader/releases and grab the relevant version. 
+Both binaries must ALWAYS match
